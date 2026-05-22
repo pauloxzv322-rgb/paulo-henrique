@@ -1,4 +1,4 @@
-# Olá, eu sou o Paulo Henrique!
+# Olá, eu sou o Paulo Henrique! 👋
 
 ### Graduando em Análise e Desenvolvimento de Sistemas | Desenvolvedor em Formação
 
@@ -8,23 +8,19 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, focado em construir uma
 
 ## 🎓 Sobre Mim
 
-- 💻 Atualmente cursando **Análise e Desenvolvimento de Sistemas**.
+- 💻 Atualmente cursando **Análise e Desenvolvimento de Sistemas** (De segunda a sexta, das 19h às 22h).
 - ☕ **+200 horas de foco prático em Java**, desenvolvendo aplicações desktop e backend (Spring Boot).
 - 🚀 Praticando versionamento de código e organização profissional com Git e GitHub.
 - ⚡ Foco atual: Arquitetura de sistemas, bancos de dados e desenvolvimento de aplicações modernas (Java e Python).
 
 ---
 
-## 🛠️ Linguagens e Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
-<p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+- **Linguagens:** Java ☕ | Python 🐍
+- **Frameworks & Web:** Spring Boot 🌿 | Flet 💻
+- **Banco de Dados:** MySQL 🗄️
+- **Ferramentas & SO:** Git & GitHub 🐙 | Linux 🐧
 
 ---
 
@@ -32,4 +28,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, focado em construir uma
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=pauloxzv322-rgb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
-  <img src="
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloxzv322-rgb&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" height="180em" />
+</p>
+
+---
+
+## 📬 Vamos nos conectar?
+
+- **LinkedIn:** [Acesse meu perfil profissional](https://www.linkedin.com/in/paulo-henrique-008362246/)
